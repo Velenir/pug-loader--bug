@@ -1,0 +1,16 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.3.0",
+    "pug": "^2.0.0-beta6",
+    "pug-loader": "^2.3.0",
+    "webpack": "^1.12.10",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
